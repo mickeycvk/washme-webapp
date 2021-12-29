@@ -8,4 +8,7 @@ Show list of users with CRUD function.
 # User mode 
 Show table data and chart data
 
+# Stack
+React.js, formik, mui, antd, chart.js, axios
+
 
