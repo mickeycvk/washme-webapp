@@ -1,7 +1,7 @@
 import axios from "axios";
 import authHeader from "./authHeader";
 
-const API_URL = "https://washme-server-nodejs.herokuapp.com/api/wash/";
+const API_URL = "";
 
 const getUserBoard = (branch) => {
   return axios.get(API_URL + `${branch}`, { headers: authHeader() });
